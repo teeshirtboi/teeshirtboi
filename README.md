@@ -14,6 +14,7 @@
 - 😋 Fun Fact **I Code when I'm Bored**
 
 <h3 align="left">Connect with me:</h3>
+<iframe src="https://canary.discord.com/widget?id=710485766421348422&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <p align="left">
 <a href="https://instagram.com/ig_applsoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_applsoda" height="30" width="40" /></a>
 <a href="https://discord.gg/Np2YvkCmUn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Np2YvkCmUn" height="30" width="40" /></a>
