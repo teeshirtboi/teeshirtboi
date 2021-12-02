@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teeshirtboi&show_icons=true&locale=en" alt="teeshirtboi" /></p>
 
 
-<iframe src="https://canary.discord.com/widget?id=710485766421348422&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
