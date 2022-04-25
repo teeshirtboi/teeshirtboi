@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm AppleSoda aka RV</h1>
-<h3 align="center">A Passionate Frontend Developer.</h3>
+<h3 align="center">A Web Developer.</h3>
 
-[<img src="https://spotify-psi-seven.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/AppleSoda)
+
 
 - 🔭 I’m currently working on **A Webpage & Discord Bot**
 
