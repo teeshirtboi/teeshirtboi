@@ -3,17 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **A Webpage & Discord Bot**
+- 🔭 I’m currently working on **A Webpage.**
 
-- 🛐 I’m currently learning **JavaScript**
+- 🛐 I’m currently learning **Computer Applications.**
 
-- 🤝 I’m looking for help with **Discord.js**
+- 🤝 I’m looking for help with **Web Development.**
 
-- 👨‍💻 All of my projects are available at [Discord](https://discord.gg/Np2YvkCmUn)
-
-- 📫 You can reach me on my [Discord](https://discord.gg/Np2YvkCmUn)
-
-- 😋 Fun Fact **I Code when I'm Bored**
+- 📫 You can reach me on my [Instagram](https://instagram.com/ig_applesoda) / [Discord](https://discord.gg/Np2YvkCmUn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
