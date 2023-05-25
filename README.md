@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm AppleSoda aka RV</h1>
+<h1 align="center">Hello 👋, I'm Rahul V aka AppleSoda</h1>
 <h3 align="center">A Web Developer.</h3>
 
 
